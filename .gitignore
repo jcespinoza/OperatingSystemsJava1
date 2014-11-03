@@ -12,8 +12,7 @@
 hs_err_pid*
 /ConcurrencyJava/build/
 /ConcurrencyJava/dist/
-/ConcurrencyJava/
-+ build.xml
+/ConcurrencyJava/build.xml
 /ConcurrencyJava/nbproject/
 
 /ReadersWritersProblem/build/
